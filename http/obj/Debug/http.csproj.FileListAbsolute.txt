@@ -1,0 +1,9 @@
+D:\Study\c#\PJ\Projects\http\http\bin\Debug\http.exe.config
+D:\Study\c#\PJ\Projects\http\http\bin\Debug\http.exe
+D:\Study\c#\PJ\Projects\http\http\bin\Debug\http.pdb
+D:\Study\c#\PJ\Projects\http\http\obj\Debug\http.csprojResolveAssemblyReference.cache
+D:\Study\c#\PJ\Projects\http\http\obj\Debug\http.Properties.Resources.resources
+D:\Study\c#\PJ\Projects\http\http\obj\Debug\http.csproj.GenerateResource.Cache
+D:\Study\c#\PJ\Projects\http\http\obj\Debug\http.exe
+D:\Study\c#\PJ\Projects\http\http\obj\Debug\http.pdb
+D:\Study\c#\PJ\Projects\http\http\obj\Debug\http.MainForm.resources
